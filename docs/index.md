@@ -4,10 +4,13 @@ title: Code de l'entrée et du séjour des étrangers et du droit d'asile
 ---
 
 # Code de l'entrée et du séjour des étrangers et du droit d'asile
+{:.no_toc}
 
 - Date de consolidation : 11 janvier 2017
 - [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20170111)
 
+### Table de matières
+{:.no_toc}
 
 - Table de matières automatiquement générée par kramdown
 {:toc}
