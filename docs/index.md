@@ -8,6 +8,7 @@ title: Code de l'entrée et du séjour des étrangers et du droit d'asile
 - Date de consolidation : 11 janvier 2017
 - [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20170111)
 
+
 - Table de matières automatiquement générée par kramdown
 {:toc}
 
@@ -20,11 +21,13 @@ title: Code de l'entrée et du séjour des étrangers et du droit d'asile
 #### Chapitre unique
 
 #### Article L111-1
+{:.no_toc}
 
 Sont considérées comme étrangers au sens du présent code les personnes qui n'ont pas la nationalité française, soit qu'elles aient une nationalité étrangère, soit qu'elles n'aient pas de nationalité.
 
 
 #### Article L111-2
+{:.no_toc}
 
 Le présent code régit l'entrée et le séjour des étrangers en France métropolitaine, en Guadeloupe, en Guyane, en Martinique, à Mayotte, à La Réunion, à Saint-Pierre-et-Miquelon, à Saint-Barthélemy et à Saint-Martin.
 
@@ -48,11 +51,13 @@ Sont également applicables aux îles Wallis et Futuna, en Polynésie française
 
 
 #### Article L111-3
+{:.no_toc}
 
 Au sens des dispositions du présent code, l'expression " en France " s'entend de la France métropolitaine, de la Guadeloupe, de la Guyane, de la Martinique, de Mayotte, de La Réunion, de Saint-Pierre-et-Miquelon, de Saint-Barthélemy et de Saint-Martin.
 
 
 #### Article L111-4
+{:.no_toc}
 
 A l'exception des dispositions du livre VII relatives à l'asile, les dispositions du présent code ne sont pas applicables aux agents diplomatiques et aux consuls de carrière.
 
@@ -486,11 +491,13 @@ Sans préjudice des dispositions de l'article [L. 214-5](#article-l214-5), les m
 
 
 #### Article L214-7
+{:.no_toc}
 
 Le second alinéa de l'article [L. 214-4](#article-l214-4) n'est pas applicable à l'étranger mineur.
 
 
 #### Article L214-8
+{:.no_toc}
 
 Les articles [L. 214-1](#article-l214-1), [L. 214-2](#article-l214-2), [L. 214-3](#article-l214-3), [L. 214-5](#article-l214-5) et [L. 214-6](#article-l214-6) sont applicables sur l'ensemble du territoire de la République.
 
