@@ -2,7 +2,7 @@ f = open("index.md", "r")
 contents = []
 
 for line in f:
-    if '# Article' in line:
+    if '# Article' in line or '# Sous-section' in line:
         line = line + '{:.no_toc}\n'
     contents.append(line)
 f.close()

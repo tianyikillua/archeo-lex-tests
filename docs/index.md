@@ -3,16 +3,13 @@ layout: default
 title: Code de l'entrée et du séjour des étrangers et du droit d'asile
 ---
 
-<!-- # Code de l'entrée et du séjour des étrangers et du droit d'asile -->
-<!-- {:.no_toc} -->
-
 - Date de consolidation : 11 janvier 2017
 - [Lien permanent Légifrance](http://legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158&dateTexte=20170111)
 
 ### Table de matières
 {:.no_toc}
 
-- Table de matières automatiquement générée par kramdown
+- TOC
 {:toc}
 
 # Partie législative
@@ -1073,6 +1070,7 @@ N'est pas regardé comme ayant cessé de remplir la condition d'activité prévu
 ##### Section 2 : Les différentes catégories de cartes de séjour temporaires
 
 ###### Sous-section 1 : La carte de séjour temporaire portant la mention "visiteur"
+{:.no_toc}
 
 ###### Article L313-6
 {:.no_toc}
@@ -1081,6 +1079,7 @@ La carte de séjour temporaire délivrée à l'étranger qui apporte la preuve q
 
 
 ###### Sous-section 2 : La carte de séjour temporaire portant la mention "étudiant"
+{:.no_toc}
 
 ###### Article L313-7
 {:.no_toc}
@@ -1107,6 +1106,7 @@ Un décret en Conseil d'Etat précise les conditions d'application des dispositi
 
 
 ###### Sous-section 2 bis : Dispositions particulières applicables aux étrangers stagiaires
+{:.no_toc}
 
 ###### Article L313-7-1
 {:.no_toc}
@@ -1137,6 +1137,7 @@ La carte de séjour temporaire portant la mention " stagiaire mobile ICT (famill
 
 
 ###### Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle
+{:.no_toc}
 
 ###### Article L313-10
 {:.no_toc}
@@ -1157,6 +1158,7 @@ La carte de séjour prévue aux 1° ou 2° du présent article est délivrée, s
 
 
 ###### Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale"
+{:.no_toc}
 
 ###### Article L313-11
 {:.no_toc}
@@ -1243,6 +1245,7 @@ Le délai pour la délivrance de la carte de séjour temporaire après la décis
 
 
 ###### Sous-section 7 : L'admission exceptionnelle au séjour
+{:.no_toc}
 
 ###### Article L313-14
 {:.no_toc}
@@ -1267,6 +1270,7 @@ La présente sous-section n'est pas applicable à Mayotte.
 ##### Section 3 : La carte de séjour pluriannuelle
 
 ###### Sous-section 1 : La carte de séjour pluriannuelle générale délivrée après un premier document de séjour
+{:.no_toc}
 
 ###### Article L313-17
 {:.no_toc}
@@ -1309,6 +1313,7 @@ III.-Lorsque l'étranger sollicite la délivrance d'une première carte de séjo
 
 
 ###### Sous-section 2 : La carte de séjour pluriannuelle portant la mention "passeport talent"
+{:.no_toc}
 
 ###### Article L313-20
 {:.no_toc}
@@ -1363,6 +1368,7 @@ L'étranger titulaire d'un document de séjour délivré sur un autre fondement 
 
 
 ###### Sous-section 3 : La carte de séjour pluriannuelle portant la mention "travailleur saisonnier"
+{:.no_toc}
 
 ###### Article L313-23
 {:.no_toc}
@@ -1373,6 +1379,7 @@ Elle donne à son titulaire le droit de séjourner et de travailler en France pe
 
 
 ###### Sous-section 4 : La carte de séjour pluriannuelle portant la mention "salarié détaché ICT"
+{:.no_toc}
 
 ###### Article L313-24
 {:.no_toc}
@@ -1479,6 +1486,7 @@ La carte de résident portant la mention : " résident de longue durée-UE " dé
 ##### Section 2 : Délivrance de la carte de résident
 
 ###### Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier
+{:.no_toc}
 
 ###### Article L314-8
 {:.no_toc}
@@ -1541,6 +1549,7 @@ Dans tous les cas prévus dans la présente sous-section, la décision d'accorde
 
 
 ###### Sous-section 2 : Délivrance de plein droit
+{:.no_toc}
 
 ###### Article L314-11
 {:.no_toc}
@@ -1589,6 +1598,7 @@ La carte de résident est délivrée de plein droit à l'étranger qui remplit l
 
 
 ###### Sous-section 3 : Carte de résident délivrée en Nouvelle-Calédonie
+{:.no_toc}
 
 ###### Article L314-13
 {:.no_toc}
@@ -1597,6 +1607,7 @@ La carte de résident délivrée en Nouvelle-Calédonie est valable sur le terri
 
 
 ###### Sous-section 4 : La carte de résident permanent
+{:.no_toc}
 
 ###### Article L314-14
 {:.no_toc}
@@ -1685,6 +1696,7 @@ Les conditions de la circulation des étrangers en France sont déterminées par
 ##### Section 2 : Documents de circulation délivrés aux étrangers mineurs
 
 ###### Sous-section 1 : Le titre d'identité républicain
+{:.no_toc}
 
 ###### Article L321-3
 {:.no_toc}
@@ -1693,6 +1705,7 @@ Sur présentation du livret de famille, il est délivré à tout mineur né en F
 
 
 ###### Sous-section 2 : Le document de circulation délivré à l'étranger mineur
+{:.no_toc}
 
 ###### Article L321-4
 {:.no_toc}
@@ -5281,6 +5294,7 @@ En cas de décès du ressortissant accompagné ou rejoint ou si celui-ci quitte 
 ##### Section 5 : Délivrance du titre de séjour
 
 ###### Sous-section 1 : Dispositions générales
+{:.no_toc}
 
 ###### Article R121-10
 {:.no_toc}
@@ -5371,6 +5385,7 @@ La délivrance de la carte de séjour aux ressortissants d'un Etat tiers intervi
 
 
 ###### Sous-section 2 : Dispositions particulières applicables aux ressortissants des Etats membres de l'Union européenne soumis à des mesures transitoires ainsi qu'aux membres de leur famille ressortissants de ces mêmes Etats ou d'Etats tiers
+{:.no_toc}
 
 ###### Article R121-16
 {:.no_toc}
@@ -5561,6 +5576,7 @@ Lorsque l'entrée en France est motivée par un transit, l'étranger justifie qu
 ##### Section 2 : Visa
 
 ###### Sous-section 1 : Instruction des demandes de visa
+{:.no_toc}
 
 ###### Article R211-4
 {:.no_toc}
@@ -5577,6 +5593,7 @@ La personne qui sollicite la délivrance d'un visa est tenue de produire une pho
 
 
 ###### Sous-section 2 : Recours contre les refus de visa
+{:.no_toc}
 
 ###### Article D211-5
 {:.no_toc}
@@ -5633,6 +5650,7 @@ Les modalités de fonctionnement de la commission sont définies par arrêté co
 ##### Section 3 : Justificatif d'hébergement
 
 ###### Sous-section 1 : Souscription des attestations d'accueil
+{:.no_toc}
 
 ###### Article R211-11
 {:.no_toc}
@@ -5697,6 +5715,7 @@ Le conjoint et les enfants mineurs de dix-huit ans de l'étranger accueilli peuv
 
 
 ###### Sous-section 2 : Validation des attestations d'accueil
+{:.no_toc}
 
 ###### Article R211-16
 {:.no_toc}
@@ -5719,6 +5738,7 @@ Le maire adresse au préfet un compte rendu annuel non nominatif relatif aux att
 
 
 ###### Sous-section 3 : Traitement automatisé de données à caractère personnel relatif aux demandes de validation des attestations d'accueil
+{:.no_toc}
 
 ###### Article R211-19
 {:.no_toc}
@@ -5825,6 +5845,7 @@ La mise en oeuvre du traitement mentionné à l'article [R. 211-19](#article-r21
 ##### Section 4 : Autres documents
 
 ###### Sous-section 1 : Documents relatifs à l'objet et aux conditions du séjour
+{:.no_toc}
 
 ###### Article R211-27
 {:.no_toc}
@@ -5841,6 +5862,7 @@ En fonction de ses déclarations sur les motifs de son voyage, l'étranger dont 
 
 
 ###### Sous-section 2 : Documents relatifs aux moyens d'existence de l'étranger
+{:.no_toc}
 
 ###### Article R211-28
 {:.no_toc}
@@ -5851,6 +5873,7 @@ Les justifications énumérées au premier alinéa sont appréciées compte tenu
 
 
 ###### Sous-section 3 : Prise en charge des dépenses médicales et hospitalières
+{:.no_toc}
 
 ###### Article R211-29
 {:.no_toc}
@@ -5861,6 +5884,7 @@ Le contrat d'assurance souscrit par l'étranger ou par l'hébergeant pour le com
 
 
 ###### Sous-section 4 : Garanties de rapatriement
+{:.no_toc}
 
 ###### Article R211-30
 {:.no_toc}
@@ -5883,6 +5907,7 @@ Peuvent être des documents relatifs aux garanties de rapatriement :
 
 
 ###### Sous-section 5 : Déclaration d'entrée sur le territoire français mentionnée à l'article L. 531-2
+{:.no_toc}
 
 ###### Article R211-32
 {:.no_toc}
@@ -6405,6 +6430,7 @@ Une réunion est organisée annuellement sur le fonctionnement des zones d'atten
 ##### Section 1 : Dispositions relatives aux documents de séjour
 
 ###### Sous-section 1 : Demandes de titre de séjour
+{:.no_toc}
 
 ###### Article R311-1
 {:.no_toc}
@@ -6508,6 +6534,7 @@ En application de l'article [L. 313-7](#article-l313-7), les étrangers titulair
 
 
 ###### Sous-section 2 : Récépissé des demandes
+{:.no_toc}
 
 ###### Article R311-4
 {:.no_toc}
@@ -6554,6 +6581,7 @@ Pour l'application du deuxième alinéa de l'article [L. 311-4](#article-l311-4)
 
 
 ###### Sous-section 3 : Délivrance du titre de séjour
+{:.no_toc}
 
 ###### Article R311-10
 {:.no_toc}
@@ -6596,6 +6624,7 @@ En cas de refus de délivrance de tout titre de séjour, l'étranger est tenu de
 
 
 ###### Sous-section 3-1 : Modèle du titre de séjour
+{:.no_toc}
 
 ###### Article R311-13-1
 {:.no_toc}
@@ -6606,6 +6635,7 @@ Il comporte les mentions énumérées au A de la section 2 de l'annexe 6-4 au pr
 
 
 ###### Sous-section 4 : Retrait du titre de séjour
+{:.no_toc}
 
 ###### Article R311-14
 {:.no_toc}
@@ -6682,6 +6712,7 @@ En cas de retrait de son titre de séjour, l'étranger est tenu de quitter le te
 
 
 ###### Sous-section 5 : Restitution du titre de séjour
+{:.no_toc}
 
 ###### Article R311-17
 {:.no_toc}
@@ -6696,6 +6727,7 @@ Les bénéficiaires de l'aide publique à la réinsertion prévue à l'article [
 
 
 ###### Sous-section 6 : Dispositions fiscales
+{:.no_toc}
 
 ##### Section 2 : Dispositions relatives à l'intégration dans la société française
 
@@ -7022,6 +7054,7 @@ La durée de validité de la carte de séjour temporaire ou pluriannuelle déliv
 ##### Section 2 : Les différentes catégories de cartes de séjour temporaires
 
 ###### Sous-section 1 : La carte de séjour temporaire portant la mention "visiteur"
+{:.no_toc}
 
 ###### Article R313-6
 {:.no_toc}
@@ -7034,6 +7067,7 @@ Pour l'application de l'article [L. 313-6](#article-l313-6), l'étranger qui dem
 
 
 ###### Sous-section 2 : La carte de séjour temporaire portant la mention "étudiant"
+{:.no_toc}
 
 ###### Article R313-7
 {:.no_toc}
@@ -7074,6 +7108,7 @@ Peut être exempté, sur décision du préfet, de l'obligation de présentation 
 
 
 ###### Sous-section 2 bis : Dispositions particulières applicables aux étrangers stagiaires
+{:.no_toc}
 
 ###### Article R313-10-1
 {:.no_toc}
@@ -7238,6 +7273,7 @@ La décision du préfet est notifiée par écrit à l'étranger dans les meilleu
 
 
 ###### Sous-section 5 : La carte de séjour temporaire autorisant l'exercice d'une activité professionnelle
+{:.no_toc}
 
 ###### Article R313-15
 {:.no_toc}
@@ -7312,6 +7348,7 @@ La liste mentionnée au premier alinéa de l'article [L. 311-11](#article-l311-1
 
 
 ###### Sous-section 6 : La carte de séjour temporaire portant la mention "vie privée et familiale"
+{:.no_toc}
 
 ###### Article R313-20
 {:.no_toc}
@@ -7362,6 +7399,7 @@ L'étranger mentionné au 11° de l'article [L. 313-11](#article-l313-11) qui ne
 
 
 ###### Sous-section 8 : La carte de séjour temporaire délivrée au ressortissant de pays tiers titulaire du statut de résident de longue durée-UE dans un autre Etat membre de l'Union européenne et aux membres de sa famille
+{:.no_toc}
 
 ###### Article R313-34-1
 {:.no_toc}
@@ -7474,6 +7512,7 @@ Le préfet statue sur sa demande de renouvellement de la carte de séjour tempor
 ##### Section 4 : La carte de séjour pluriannuelle
 
 ###### Sous-section 1 : La carte de séjour pluriannuelle générale délivrée après un premier document de séjour
+{:.no_toc}
 
 ###### Article R313-39
 {:.no_toc}
@@ -7494,6 +7533,7 @@ Le préfet vérifie en outre que l'étranger n'a pas manifesté de rejet des val
 
 
 ###### Sous-section 2 : La carte de séjour pluriannuelle portant la mention “passeport talent” et la carte de séjour pluriannuelle portant la mention “passeport talent (famille)”
+{:.no_toc}
 
 ####### Paragraphe 1 : Dispositions générales
 
@@ -7806,6 +7846,7 @@ La carte de séjour pluriannuelle délivrée sur le fondement du 10° de l'artic
 
 
 ###### Sous-section 3 : La carte de séjour pluriannuelle portant la mention “salarié détaché ICT”, “salarié détaché ICT (famille)”, “salarié détaché mobile ICT” et “salarié détaché mobile ICT (famille)”
+{:.no_toc}
 
 ###### Article R313-72
 {:.no_toc}
@@ -7868,6 +7909,7 @@ Par dérogation à l'article [R. 311-12-1](#article-r311-12-1), le délai au ter
 
 
 ###### Sous-section 4 : La carte de séjour pluriannuelle portant la mention “ travailleur saisonnier ”
+{:.no_toc}
 
 ###### Article R313-75
 {:.no_toc}
@@ -7878,6 +7920,7 @@ Pour l'application de l'article [L. 313-23](#article-l313-23), l'étranger qui s
 ##### Section 5 : Renouvellement des cartes de séjour pluriannuelle
 
 ###### Sous-section 1 : La carte de séjour pluriannuelle générale
+{:.no_toc}
 
 ###### Article R313-76
 {:.no_toc}
@@ -7890,6 +7933,7 @@ Les dispositions du présent article s'appliquent sous réserve de celles du II 
 
 
 ###### Sous-section 2 : La carte de séjour pluriannuelle portant la mention “ passeport ” et la carte de séjour pluriannuelle portant la mention “ passeport talent (famille) ”
+{:.no_toc}
 
 ###### Article R313-77
 {:.no_toc}
@@ -7918,6 +7962,7 @@ Lorsque l'étranger titulaire de la carte de séjour délivrée sur le fondement
 
 
 ###### Sous-section 3 : La carte de séjour pluriannuelle portant la mention “travailleur saisonnier”
+{:.no_toc}
 
 ###### Article R313-81
 {:.no_toc}
@@ -7938,6 +7983,7 @@ Il justifie en outre du respect des conditions de séjour et de travail prévues
 ##### Section 2 : Délivrance de la carte de résident
 
 ###### Sous-section 1 : Délivrance subordonnée à une durée de séjour régulier
+{:.no_toc}
 
 ###### Article R314-1
 {:.no_toc}
@@ -8012,6 +8058,7 @@ Lorsqu'un étranger qui dispose déjà d'une carte de résident de longue durée
 
 
 ###### Sous-section 2 : Délivrance de plein droit
+{:.no_toc}
 
 ###### Article R314-2
 {:.no_toc}
@@ -8038,6 +8085,7 @@ Le certificat médical prévu au 4° du présent article n'est pas exigé de l'�
 
 
 ###### Sous-section 3 : Carte de résident délivrée en Nouvelle-Calédonie
+{:.no_toc}
 
 ##### Section 3 : Renouvellement de la carte de résident
 
@@ -8307,6 +8355,7 @@ Tout étranger, séjournant en France et astreint à la possession d'une autoris
 ##### Section 2 : Documents de circulation délivrés aux étrangers mineurs
 
 ###### Sous-section 1 : Le titre d'identité républicain
+{:.no_toc}
 
 ###### Article D321-9
 {:.no_toc}
@@ -8373,6 +8422,7 @@ Le titulaire d'un titre d'identité républicain peut être réadmis en France e
 
 
 ###### Sous-section 2 : Le document de circulation délivré à l'étranger mineur
+{:.no_toc}
 
 ###### Article D321-16
 {:.no_toc}
@@ -9422,6 +9472,7 @@ Quel que soit le lieu de rétention dans lequel l'étranger est placé, un proc�
 ##### Section 1 : Première saisine du juge des libertés et de la détention aux fins de prolongation de la rétention
 
 ###### Sous-section 1 : Saisine du juge par l'autorité administrative
+{:.no_toc}
 
 ###### Article R552-1
 {:.no_toc}
@@ -9494,6 +9545,7 @@ Lorsqu'une ordonnance met fin à la rétention ou assigne à résidence l'étran
 
 
 ###### Sous-section 2 : Contestation de la décision de placement en rétention par l'étranger
+{:.no_toc}
 
 ###### Article R552-10-1
 {:.no_toc}
@@ -9518,6 +9570,7 @@ Toutefois, par dérogation à l'article [R. 552-1](#article-r552-1), le juge des
 ##### Section 3 : Voies de recours
 
 ###### Sous-section 1 : Appel
+{:.no_toc}
 
 ###### Article R552-12
 {:.no_toc}
@@ -9576,6 +9629,7 @@ L'ordonnance est communiquée au ministère public. Elle est notifiée à l'étr
 
 
 ###### Sous-section 2 : Pourvoi en cassation
+{:.no_toc}
 
 ###### Article R552-16
 {:.no_toc}
@@ -9588,6 +9642,7 @@ L'ordonnance du premier président de la cour d'appel ou de son délégué n'est
 ##### Section 5 : Saisine du juge par l'étranger et décisions de mise en liberté prises par le juge de sa propre initiative ou à la demande du ministère public
 
 ###### Sous-section 1 : Saisine et décision du juge des libertés et de la détention
+{:.no_toc}
 
 ###### Article R552-17
 {:.no_toc}
@@ -9610,6 +9665,7 @@ L'ordonnance du juge des libertés et de la détention est notifiée sans délai
 
 
 ###### Sous-section 2 : Appel
+{:.no_toc}
 
 ###### Article R552-20
 {:.no_toc}
@@ -9652,6 +9708,7 @@ Le premier président ou son délégué statue en faisant application des dispos
 
 
 ###### Sous-section 3 : Pourvoi en cassation
+{:.no_toc}
 
 ###### Article R552-24
 {:.no_toc}
@@ -9664,6 +9721,7 @@ L'ordonnance du premier président ou de son délégué n'est pas susceptible d'
 ##### Section 1 : Lieux de rétention
 
 ###### Sous-section 1 : Centres de rétention administrative
+{:.no_toc}
 
 ###### Article R553-1
 {:.no_toc}
@@ -9740,6 +9798,7 @@ Les étrangers auxquels il est fait application des dispositions du quatrième a
 
 
 ###### Sous-section 2 : Locaux de rétention administrative
+{:.no_toc}
 
 ###### Article R553-5
 {:.no_toc}
@@ -9770,6 +9829,7 @@ Les dispositions des alinéas précédents ne sont pas applicables à Mayotte po
 
 
 ###### Sous-section 3 : Dispositions communes
+{:.no_toc}
 
 ###### Article R553-7
 {:.no_toc}
@@ -9824,6 +9884,7 @@ Les étrangers placés ou maintenus dans un centre de rétention administrative 
 ##### Section 2 bis : Intervention des personnes morales
 
 ###### Sous-section 1 : Cas des centres de rétention administrative
+{:.no_toc}
 
 ###### Article R553-14
 {:.no_toc}
@@ -9856,6 +9917,7 @@ Une personne physique ne peut représenter plus d'une personne morale.
 
 
 ###### Sous-section 2 : Cas des locaux de rétention administrative
+{:.no_toc}
 
 ###### Article R553-14-2
 {:.no_toc}
@@ -10289,6 +10351,7 @@ L'habilitation pour la mise en œuvre du dispositif de localisation à distance,
 ##### Section 1 : Application de gestion des dossiers des ressortissants étrangers en France
 
 ###### Sous-section 1 : Finalités du traitement
+{:.no_toc}
 
 ###### Article R611-1
 {:.no_toc}
@@ -10313,6 +10376,7 @@ Le traitement peut être consulté et mis en relation avec d'autres traitements 
 
 
 ###### Sous-section 2 : Données enregistrées dans le traitement
+{:.no_toc}
 
 ###### Article R611-2
 {:.no_toc}
@@ -10339,6 +10403,7 @@ Les autres catégories de données à caractère personnel enregistrées dans le
 
 
 ###### Sous-section 3 : Destinataires des données
+{:.no_toc}
 
 ###### Article R611-4
 {:.no_toc}
@@ -10361,6 +10426,7 @@ Outre les agents chargés de la mise en œuvre du traitement et ceux de l'Agence
 
 
 ###### Sous-section 4 : Accès aux données en consultation
+{:.no_toc}
 
 ###### Article R611-5
 {:.no_toc}
@@ -10429,6 +10495,7 @@ Les données enregistrées dans le traitement automatisé prévu à l'article [R
 
 
 ###### Sous-section 5 : Conservation des données
+{:.no_toc}
 
 ###### Article R611-7-1
 {:.no_toc}
@@ -10459,6 +10526,7 @@ Les consultations font l'objet d'un enregistrement comprenant l'identification d
 
 
 ###### Sous-section 6 : Droits d'accès, de rectification et d'opposition
+{:.no_toc}
 
 ###### Article R611-7-2
 {:.no_toc}
@@ -10739,6 +10807,7 @@ Les membres de famille ressortissants d'un Etat tiers mentionnés au deuxième a
 ##### Section 1 : Amendes aux entreprises débarquant un étranger dépourvu des documents visés à l'article L. 625-1
 
 ###### Sous-section 1 : Procédure
+{:.no_toc}
 
 ###### Article R625-1
 {:.no_toc}
@@ -10781,6 +10850,7 @@ Les services compétents pour procéder aux contrôles mentionnés au deuxième 
 
 
 ###### Sous-section 2 : Consignation d'une somme par l'entreprise de transport
+{:.no_toc}
 
 ###### Article R625-13
 {:.no_toc}
@@ -11091,6 +11161,7 @@ Les dépenses de l'office comprennent :
 ##### Section 1 : Garanties procédurales et obligations du demandeur
 
 ###### Sous-section 1 : Introduction de la demande
+{:.no_toc}
 
 ###### Article R723-1
 {:.no_toc}
@@ -11105,6 +11176,7 @@ Lorsque la demande n'est pas complète, l'office demande au demandeur de la comp
 
 
 ###### Sous-section 2 : Délais d'examen
+{:.no_toc}
 
 ###### Article R723-2
 {:.no_toc}
@@ -11133,6 +11205,7 @@ IV.-Dans les cas mentionnés au II et au III le préfet compétent est informé 
 
 
 ###### Sous-section 3 : Entretien personnel
+{:.no_toc}
 
 ###### Article R723-5
 {:.no_toc}
@@ -11205,6 +11278,7 @@ L'intéressé entendu par un moyen de communication audiovisuelle doit, si besoi
 
 
 ###### Sous-section 4 : Examen médical
+{:.no_toc}
 
 ###### Article R723-10
 {:.no_toc}
@@ -11453,8 +11527,10 @@ Les attributions dévolues par les dispositions réglementaires du présent chap
 ##### Section 2 : Recours formés contre les décisions en matière d'asile
 
 ###### Sous-section 1 : Compétence de la cour
+{:.no_toc}
 
 ###### Sous-section 2 : Présentation des recours
+{:.no_toc}
 
 ###### Article R733-5
 {:.no_toc}
@@ -11501,6 +11577,7 @@ La demande de régularisation mentionne qu'à défaut de régularisation les con
 
 
 ###### Sous-section 3 : Instruction
+{:.no_toc}
 
 ###### Article R733-10
 {:.no_toc}
@@ -11591,6 +11668,7 @@ Un délai est fixé aux parties pour déposer leurs observations, sans qu'y fass
 
 
 ###### Sous-section 4 : Audience
+{:.no_toc}
 
 ###### Article R733-17
 {:.no_toc}
@@ -11727,6 +11805,7 @@ La décision ne peut être contestée devant le juge de cassation qu'à l'occasi
 
 
 ###### Sous-section 5 : Jugement
+{:.no_toc}
 
 ###### Article R733-28
 {:.no_toc}
@@ -11789,6 +11868,7 @@ Lorsqu'une partie signale au président de la cour l'existence d'une erreur ou d
 
 
 ###### Sous-section 6 : Demande d'avis au Conseil d'Etat
+{:.no_toc}
 
 ###### Article R733-34
 {:.no_toc}
@@ -11801,8 +11881,10 @@ Les dispositions des articles R. 113-2 à R. 113-4 du code de justice administra
 
 
 ###### Sous-section 7 : Question prioritaire de constitutionnalité
+{:.no_toc}
 
 ###### Sous-section 8 : Voies de recours
+{:.no_toc}
 
 ###### Article R733-35
 {:.no_toc}
@@ -12039,6 +12121,7 @@ Lorsqu'après le rejet définitif de sa demande d'asile, l'étranger dépose une
 ##### Section 1 : Dispositif national d'accueil
 
 ###### Sous-section 1 : Domiciliation des demandeurs d'asile
+{:.no_toc}
 
 ###### Article R744-1
 {:.no_toc}
@@ -12089,6 +12172,7 @@ Les lieux d'hébergement mentionnés à l'article [L. 744-3](#article-l744-3) so
 
 
 ###### Sous-section 2 : Lieux d'hébergement pour demandeurs d'asile
+{:.no_toc}
 
 ###### Article R744-5
 {:.no_toc}
@@ -12198,6 +12282,7 @@ Si le demandeur d'asile présente des documents à caractère médical, en vue d
 ##### Section 3 : Allocation pour demandeur d'asile
 
 ###### Sous-section 1 : Conditions d'attribution
+{:.no_toc}
 
 ###### Article D744-17
 {:.no_toc}
@@ -12308,6 +12393,7 @@ Le montant de l'allocation versée est révisé après instruction de la demande
 
 
 ###### Sous-section 2 : Gestion et versement
+{:.no_toc}
 
 ###### Article D744-31
 {:.no_toc}
@@ -12408,6 +12494,7 @@ Le montant maximal des retenues pouvant être opérées sur les échéances à v
 
 
 ###### Sous-section 3 : Communication d'informations
+{:.no_toc}
 
 ###### Article D744-41
 {:.no_toc}
@@ -12943,6 +13030,7 @@ Lorsque la durée de validité du contrat de travail présenté par le bénéfic
 ##### Section 2 : Le transfert des bénéficiaires de la protection temporaire ou des membres de leur famille
 
 ###### Sous-section 1 : Le transfert en France d'un bénéficiaire de la protection temporaire ou d'un membre de sa famille
+{:.no_toc}
 
 ###### Article R811-5
 {:.no_toc}
@@ -12981,6 +13069,7 @@ L'autorisation provisoire de séjour délivrée à un membre de famille admis en
 
 
 ###### Sous-section 2 : Le transfert d'un bénéficiaire de la protection temporaire vers un autre Etat de l'Union européenne
+{:.no_toc}
 
 ###### Article R811-10
 {:.no_toc}
@@ -13005,6 +13094,7 @@ Pour permettre la mise en oeuvre du transfert, le préfet de département et, à
 
 
 ###### Sous-section 3 : La coopération en vue du transfert
+{:.no_toc}
 
 ###### Article R811-13
 {:.no_toc}
